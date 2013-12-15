@@ -4,7 +4,7 @@ This is a playbook for throwing a 'Happy Data Hour' party where you live. These 
 
 Some questions we have:
 
-* Where do you want to host your Happy Data Hour?
+* Where and when do you want to host your Happy Data Hour?
 
 * How many people do you expect to join you?
 
