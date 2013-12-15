@@ -1,6 +1,6 @@
 == Happy Data Hour
 
-This is a playbook for throwing a 'Happy Data Hour' party where you live. These are events that we through at our Keen IO HQ in San Francisco as well as when we are out on the road with friends. We would love to spread some goodwill to your city even if we can't always send out a live human being to be there with you.
+This is a playbook for throwing a 'Happy Data Hour' party where you live. These are events that we throw at our Keen IO HQ in San Francisco as well as when we are out on the road with friends. We would love to spread some goodwill to your city even if we can't always send out a live human being to be there with you.
 
 Some questions we have:
 
