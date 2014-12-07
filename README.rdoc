@@ -1,6 +1,6 @@
 == Happy Data Hour
 
-This is a play book for throwing a 'Happy Data Hour' party where you live. These are event's that Keen IO employees throw at our HQ in San Francisco and with our friends when we are out on the road. We want to have one in every city, but we can't always send an actually employee out. 
+This is a play book for throwing a 'Happy Data Hour' party where you live. These are event's that Keen IO employees throw at our HQ in San Francisco and with our friends when we are out on the road. We want to have one in every city, but we can't always send an actually employee out.
 
 That doesn't mean we can't help you throw an awesome party and buy you guys some beers :)
 
@@ -16,4 +16,4 @@ How we can help:
 
 * Keen IO will pick up the beer tab
 
-If you want to throw one of these, fork this repo, make a change and send a pull request... ok fine, if you want to be boring you can just send us an email too ;) team at keen dot io
+If you want to throw one of these, fork this repo, add you city and submit a pull request.
