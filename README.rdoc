@@ -1,19 +1,22 @@
 == Happy Data Hour
 
+
 This is a play book for throwing a 'Happy Data Hour' party where you live. These are event's that Keen IO employees throw at our HQ in San Francisco and with our friends when we are out on the road. We want to have one in every city, but we can't always send an actually employee out.
 
 That doesn't mean we can't help you throw an awesome party and buy you guys some beers :)
 
 Some questions we have:
 
-* Where do you want to throw the party?
+* Where and when do you want to host your Happy Data Hour?
 
-How we can help:
+* How many people do you expect to join you?
 
-* Keen IO will promote via social media
+How Keen IO can help:
 
-* Keen IO will mail you some tshirts and stickers
+* Promote via social media
 
-* Keen IO will pick up the beer tab
+* Mail you some tshirts and stickers
 
-If you want to throw one of these, fork this repo, add you city and submit a pull request.
+* Pick up the beer tab
+
+If you want to throw one of these, fork this repo, add your city and submit a pull request.
