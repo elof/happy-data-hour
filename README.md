@@ -1,6 +1,6 @@
 #Happy Data Hour
 
-![Data + Drinks](https://s3-us-west-1.amazonaws.com/tf-community-graphics/data+drinks.jpg)
+![Data + Drinks](https://s3-us-west-1.amazonaws.com/tf-community-graphics/data-drinks-rbg.png)
 
 This is a play book for throwing a 'Happy Data Hour' party where you live. These are events that Keen IO employees throw at our HQ in San Francisco and with our friends when we are out on the road. We want to have one in every city, but we don't think it'll be feasible to send an employee to every city in the world - am I right?
 
