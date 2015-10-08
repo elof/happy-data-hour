@@ -1,6 +1,6 @@
-== Happy Data Hour
+#Happy Data Hour
 
-![Data + Drinks](https://s3-us-west-1.amazonaws.com/tf-community-graphics/data+drinks.png)
+![Data + Drinks](https://s3-us-west-1.amazonaws.com/tf-community-graphics/data+drinks.jpg)
 
 This is a play book for throwing a 'Happy Data Hour' party where you live. These are event's that Keen IO employees throw at our HQ in San Francisco and with our friends when we are out on the road. We want to have one in every city, but we can't always send an actually employee out.
 
